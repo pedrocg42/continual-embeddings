@@ -1,0 +1,6 @@
+/venvs
+.vscode
+__pycache__
+
+*.npy
+datasets/*/*
